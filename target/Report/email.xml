@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="To check email to create account" name="The user should check email account" time="0">
+<skipped><![CDATA[Given The user should launch web............................................undefined
+When The user should click url..............................................undefined
+And The user should maxmize.................................................undefined
+And The user should click create button.....................................undefined
+And The user should enter first name........................................undefined
+And The user should enter last name.........................................undefined
+And The user should create mail id..........................................undefined
+And The user should enter password..........................................undefined
+And The user should enter conform password..................................undefined
+And The user should click next button.......................................undefined
+And The user should enter mobile number.....................................undefined
+Then The user should next button............................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
